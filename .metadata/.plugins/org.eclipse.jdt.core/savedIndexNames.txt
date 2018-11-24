@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\PandoraBox\Desktop\2018\2018_summer\Chopsticks\.metadata\.plugins\org.eclipse.jdt.core
+2900911446.index
